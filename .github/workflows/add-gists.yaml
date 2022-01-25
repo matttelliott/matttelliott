@@ -1,8 +1,7 @@
 name: Comment when opened
 on:
-  issues:
-    types:
-      - opened
+  push:
+    branches: [master]
 jobs:
   comment:
     runs-on: ubuntu-latest
