@@ -6,6 +6,6 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - run: ls
+      - run: gh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
