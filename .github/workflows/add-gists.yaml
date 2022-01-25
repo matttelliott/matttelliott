@@ -9,4 +9,3 @@ jobs:
       - run: gh gist list
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE: ${{ github.event.issue.html_url }}
