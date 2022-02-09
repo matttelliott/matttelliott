@@ -14,6 +14,7 @@
 
 ## Latest Gists
 <!-- GIST-LIST:START -->
+- [complex-types.md](https://gist.github.com/matttelliott/1e496b8e83314f004b2711a7f50e236f)
 - [Add a list of most recent github gists to a gatsby site](https://gist.github.com/matttelliott/2ec1f3279cef03d67e486d406d60e2ea)
 - [Add Gists to GitHub Profile](https://gist.github.com/matttelliott/53baa36bfaef4f41baa134c6023d2629)
 - [lifecycle-decorators.md](https://gist.github.com/matttelliott/8f8ef97ff90e18db397b948b8532d9af)
